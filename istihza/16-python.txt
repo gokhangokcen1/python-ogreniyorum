@@ -1,0 +1,18 @@
+Bu programlama dili Guido Van Rossum adlý Hollandalý bir
+programcý
+tarafýndan 90’lý yýllarýn baþýnda geliþtirilmeye baþlanmýþtýr.
+Çoðu insan,
+isminin Python olmasýna aldanarak, bu programlama dilinin,
+adýný piton
+yýlanýndan aldýðýný düþünür. Ancak zannedildiðinin aksine bu
+programlama dilinin
+adý piton yýlanýndan gelmez. Guido Van Rossum bu
+programlama dilini, The Monty
+Python adlý bir Ýngiliz komedi grubunun,
+Monty Python’s Flying Circus adlý
+gösterisinden esinlenerek adlandýrmýþtýr.
+Ancak her ne kadar gerçek böyle olsa
+da, Python programlama dilinin pek çok
+yerde bir yýlan figürü ile temsil
+edilmesi neredeyse bir gelenek halini
+almýþtýr.
