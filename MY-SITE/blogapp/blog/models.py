@@ -23,14 +23,12 @@ class Blog(models.Model):
 
 class Category(models.Model):
     name = models.CharField(max_length=150)
-<<<<<<< HEAD
     slug = models.SlugField(null=False,blank=True, unique=True, db_index=True, editable=False)
     
     def save(self, *args, **kwargs):
         self.slug = slugify(self.name)
         super().save(*args, **kwargs)
-=======
->>>>>>> 0c3b106d28164c73b2d76ee04e21d0756c93713f
+
     
     def __str__(self):
         return self.name
