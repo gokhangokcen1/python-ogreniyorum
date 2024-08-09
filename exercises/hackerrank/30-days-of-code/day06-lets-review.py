@@ -1,5 +1,5 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
-N = int(input("how many word\n"))
+N = int(input())
 
 
 result = []
