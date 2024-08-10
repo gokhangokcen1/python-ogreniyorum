@@ -10,7 +10,7 @@ import sys
 
 if __name__ == '__main__':
     n = int(input().strip())
-    dec_to_bin = [*bin(n)[2:]]
+    dec_to_bin = bin(n)[2:]
 
     left = 0
     right = 0
