@@ -10,15 +10,19 @@ for i in range(N):
         isim, numara = yeni_kayit.split()
         phoneBook[isim] = numara
 
-while True:
-    sorgu = input().strip()
-    if sorgu:  
-        if sorgu in phoneBook:
-            result.append(f"{sorgu}={phoneBook[sorgu]}")
+try: 
+    while True:
+        sorgu = input().strip()
+        if sorgu:  
+            if sorgu in phoneBook:
+                result.append(f"{sorgu}={phoneBook[sorgu]}")
+            else:
+                result.append("Not found")
         else:
-            result.append("Not found")
-    else:
-        break
+            break
+
+except EOFError:
+    pass
 
 for res in result:
     print(res)
