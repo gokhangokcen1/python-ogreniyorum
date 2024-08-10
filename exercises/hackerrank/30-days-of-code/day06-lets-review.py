@@ -14,7 +14,6 @@ for i in range(N):
             word1 += S[i]
         else:
             word2 += S[i]
-
     else:
         result.append(word1+" "+word2)
 
