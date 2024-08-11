@@ -24,10 +24,9 @@ class Blog(models.Model):
     is_active = models.BooleanField()
     is_home = models.BooleanField()
     slug = models.SlugField(null=False, blank=True, unique=True, db_index=True, editable=False)
-    category = models.ForeignKey(Category,default=1, on_delete=models.CASCADE) 
-    #null=True, on_delete=SET_NULL bir kategori silindiğinde blog da silinmesin istersek böyle yapmamız gerekir.
-    # ya da default=1, on_delete=model.SET_DEFAULT default bir kategoriye ata
-    
+    # category = models.ForeignKey(Category,default=1, on_delete=models.CASCADE) 
+    categories = models.ManyToManyField(Category)
+
     def __str__(self):
         return f"{self.title}"
     
