@@ -1,5 +1,3 @@
-# python-ogreniyorum
-
 ## Kullandığım kaynaklar 
 
 * HACKERRANK ([30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)) [✍️benim çözümlerim](https://github.com/gokhangokcen1/python-ogreniyorum/tree/main/exercises/hackerrank/30-days-of-code)
