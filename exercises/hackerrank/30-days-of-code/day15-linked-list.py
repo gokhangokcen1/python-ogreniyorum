@@ -14,13 +14,13 @@ class Solution:
         new_node = Node(data)  
         if head is None: 
             return new_node 
-        
-        last = head 
+        else:
+            last = head 
 
-        while last.next:
-            last = last.next
-        
-        last.next = new_node
+            while last.next:
+                last = last.next
+            
+            last.next = new_node
         return head
 
 mylist= Solution()
