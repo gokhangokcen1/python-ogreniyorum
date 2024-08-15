@@ -24,7 +24,7 @@ class Solution:
             return
             
         queue = deque([root])  
-        
+
         while queue:
             current_level_size = len(queue)  
             current_level_values = []  
