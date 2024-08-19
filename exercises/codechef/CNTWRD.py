@@ -2,5 +2,5 @@
 c = int(input())
 
 for i in range(c):
-    n = int(input())
-    print("YES" if n >= 30 else "NO")
+    x,y = map(int, input().split())
+    print(x*y)
