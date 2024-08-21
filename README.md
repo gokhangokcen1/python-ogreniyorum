@@ -1,6 +1,6 @@
 ## Kullandığım kaynaklar 
 
-<img src="https://github.com/gokhangokcen1/python-ogreniyorum/blob/main/exercises/hackerrank/30-days-of-code/30daysofcodeimg.png" href="https://www.hackerrank.com/profile/gokhangokcenn" alt="30daysofcode badget" width="100" height="100">
+[<img src="https://github.com/gokhangokcen1/python-ogreniyorum/blob/main/exercises/hackerrank/30-days-of-code/30daysofcodeimg.png" alt="30daysofcode badget" width="100" height="100">](https://www.hackerrank.com/profile/gokhangokcenn)
 
 * HACKERRANK ([30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)) -- [✍️benim çözümlerim](https://github.com/gokhangokcen1/python-ogreniyorum/tree/main/exercises/hackerrank/30-days-of-code)
 * Python öğrenmek için [ISTIHZA](https://python-istihza.yazbel.com/index.html) -- [✍️benim notlarım](https://github.com/gokhangokcen1/python-ogreniyorum/tree/main/istihza)
